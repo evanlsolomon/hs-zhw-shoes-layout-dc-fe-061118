@@ -48,6 +48,6 @@ midsection .shadow{
 deals .shadow{
   column-count:3;
   width: 30%;
-  display: inline;
+  display: inline-block;
 }
 
