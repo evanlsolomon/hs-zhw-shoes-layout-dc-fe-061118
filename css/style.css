@@ -275,6 +275,7 @@ midsection .shadow{
 #featured_brands{
   width: 60%;
   float: left;
+  margin-right: 10px;
 }
 
 /********** Details **********/
