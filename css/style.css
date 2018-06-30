@@ -280,7 +280,7 @@ midsection .shadow{
 }
 
 #shoe_archive{
-  width:30%;
+  width:auto;
   height: 100%;
   overflow: hidden;
 }
