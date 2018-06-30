@@ -273,7 +273,7 @@ midsection .shadow{
 }
 
 #featured_brands{
-  column-width: 60%;
+  width: 60%;
 }
 
 /********** Details **********/
