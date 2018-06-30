@@ -49,5 +49,6 @@ deals .shadow{
   column-count:3;
    width: 30%;
    display: inline-block;
+   column-rule-width: 10px
 }
 
