@@ -264,6 +264,18 @@ section a {
   text-decoration: underline;
 }
 
+midsection {
+  column-count: 2;
+}
+
+midsection .shadow{
+  display: inline-block;
+}
+
+#featured_brands{
+  
+}
+
 /********** Details **********/
 
 #details {
