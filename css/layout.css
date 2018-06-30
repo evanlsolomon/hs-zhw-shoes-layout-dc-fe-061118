@@ -51,3 +51,6 @@ deals .shadow{
   display: inline-block;
 }
 
+#details{
+  column-count:3;
+}
