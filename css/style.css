@@ -276,6 +276,7 @@ midsection .shadow{
   width: 60%;
   float: left;
   margin-right: 10px;
+  height: 100%;
 }
 
 /********** Details **********/
